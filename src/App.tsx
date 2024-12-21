@@ -67,6 +67,7 @@ const Hero8 = () => {
           />
           <Button asChild className="my-24" variant="secondary">
             <a
+              className="border"
               href="https://archive.tallinnjs.org"
               target="_blank"
               rel="noopener noreferrer"

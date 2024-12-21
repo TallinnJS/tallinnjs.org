@@ -1,0 +1,24 @@
+body {
+  color: white;
+}
+
+#root {
+  font-family: "Ubuntu", serif;
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  color: #ffe45e;
+}
+
+a:hover {
+  color: #ffe45e;
+}
+
+.primary-cta {
+  background: #ffe45e;
+  color: hsl(var(--primary));
+  border: 1px solid;
+}

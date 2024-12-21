@@ -19,6 +19,9 @@ a:hover {
 
 .primary-cta {
   background: #ffe45e;
+  max-width: 300px;
+
+  width: 100%;
   color: hsl(var(--primary));
   border: 1px solid;
 }
